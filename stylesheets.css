@@ -1,0 +1,32 @@
+body {
+	background-color: a0a0a0;
+	font-family: arial;
+}
+
+div {
+	
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 2px;
+	border-radius: 2px;
+}
+
+#nav {
+	background-color: #fff;
+	float: left;
+	margin-right: 20px;
+	padding-right: 10px;
+}
+
+#page {
+	background-color: white;
+	margin: 10px;
+	overflow: hidden;
+}
+
+#footer {
+	background-color: white;
+	clear: both;
+}
